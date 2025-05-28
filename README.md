@@ -15,7 +15,7 @@ Este proxecto consta dun frontend servido con Nginx, un backend en Flask e unha 
   ```bash
   docker-compose up --build -d
 
-  - Verificar logs do backend:
+- Verificar logs do backend:
   
   ```bash
   docker-compose logs -f backend
